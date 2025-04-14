@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Shopping list will be here soon..'
+    return 'Shopping list  soon.. on other site!'
